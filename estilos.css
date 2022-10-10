@@ -1,8 +1,14 @@
 body{
-    background-image: url(img/images\ -\ 2022-10-07T105537.185.jpeg);
+    background-image: url("img/fo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+    width: 100px; height: 100px;
+    
 }
 
 main{
-background-image: url()
-
+    color: rgb(252, 241, 96);
 }
